@@ -1,12 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    description: "add tooltip info here"
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/aqib-mahfuz/
-  - title: "Github"
-    url: https://github.com/aqibisbiqa
+  - title: "Recipes"
+    url: /recipes-archive/
+  - title: "Sports"
+    url: /sports-archive/
+  - title: "Music"
+    url: /music-archive/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Sitemap"
