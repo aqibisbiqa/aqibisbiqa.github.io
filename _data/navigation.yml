@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "CV"
+    url: /cv/
   - title: "Recipes"
     url: /recipes-archive/
-  - title: "Sports"
-    url: /sports-archive/
-  - title: "Music"
-    url: /music-archive/
-  - title: "Sample Collections"
+  # - title: "Sports"
+  #   url: /sports-archive/
+  # - title: "Music"
+  #   url: /music-archive/
+  - title: "Collections"
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
