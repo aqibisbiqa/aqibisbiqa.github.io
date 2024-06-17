@@ -3,22 +3,28 @@ title: "Lamb Curry"
 date: 2016-02-24T03:02:20+00:00
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+Description!!
 
 ## Ingredients
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2 
-* 1/2 cups all-purpose flour 
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+* 1 kg Lamb (shoulder or leg)
+* 1/2 Carrot
+* 2 1/2 Medium Onions
+* 6 cloves Garlic
+* 3 teaspoons Ginger
+* 3 Black Cloves
+* 3 teaspoons Cumin
+* 1 teaspoon Ground Coriander
+* 2 teaspoons Turmeric
+* 2 teaspoons Red Chilli Powder
+* 3 Green Chillies
+* 4 teaspoons Tomato Paste
+* 2 Tomatoes
 
 ## Directions
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+1. 
+2. 
+3. 
+
+## Commentary
