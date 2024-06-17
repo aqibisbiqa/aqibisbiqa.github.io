@@ -114,17 +114,13 @@ analytics:
 author:
   name             : "Aqib Mahfuz"
   avatar           : "../assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring ML researcher"
+  bio              : "Aspiring Difference Maker"
   location         : "Oxford, UK"
   email            : "aqib.mahfuz@gmail.com"
-  # linkedin         : "aqib-mahfuz"
-  # github           : "aqibisbiqa"
-  # instagram        : "aqibisbiqa"
-  # lastfm           : "aqibisbiqa"
+  multiloc:
+    - location: "Boca Raton, FL"
+    - location: "Oxford, UK"
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:aqib.mahfuz@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aqib-mahfuz/"

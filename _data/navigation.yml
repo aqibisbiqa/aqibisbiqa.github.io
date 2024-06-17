@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "CV"
-    url: /cv/
+    url: /assets/files/CV%20PDF%20-%20Aqib%20Mahfuz.pdf
+  - title: "Tools"
+    # url: /tools-archive/
   - title: "Recipes"
     url: /recipes-archive/
   # - title: "Sports"

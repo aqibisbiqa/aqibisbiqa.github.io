@@ -19,13 +19,13 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-    transition: opacity 0.2s ease-in-out;
-
-    &:hover {
-      opacity: 1;
-    }
+    // opacity: 0.75;
+    // -webkit-transition: opacity 0.2s ease-in-out;
+    // transition: opacity 0.2s ease-in-out;
+    
+    // &:hover {
+    //   opacity: 1;
+    // }
 
     &.sticky {
       overflow-y: auto;
@@ -134,13 +134,23 @@
   }
 
   img {
-    max-width: 110px;
+    // max-width: 110px;
+    max-width: 175px;
     border-radius: 50%;
+    border: 1px solid $border-color;
+    // transition: border 500ms ease-in-out;
+    padding: 10px;
+    transition: padding 500ms ease-in-out;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+    &:hover {
+      padding: 0px;
+      // border: 1px solid $background-color;
     }
+
+    // @include breakpoint($large) {
+    //   padding: 5px;
+    //   border: 1px solid $border-color;
+    // }
   }
 }
 
@@ -170,6 +180,8 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+    // adjust margin-left so name is centered with avatar
+    margin-left: 25px;
   }
 }
 .sidebar .author__name {
@@ -184,6 +196,12 @@
     margin-top: 10px;
     margin-bottom: 20px;
   }
+}
+
+.author__locations-wrapper {
+  // border: 2px solid $border-color;
+  // border-radius: 25px;
+  // padding: 2px;
 }
 
 .author__urls-wrapper {
@@ -241,7 +259,8 @@
 .author__urls {
   display: none;
   position: absolute;
-  right: 0;
+  // right: 0;
+  left: 20px;
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
