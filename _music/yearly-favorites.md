@@ -1,5 +1,5 @@
 ---
-title: "My Favorite Tracks by Year"
+title: "Favorite Tracks by Year"
 ---
 
 What started out as a fun little 
