@@ -5,7 +5,7 @@ date: 2024-06-17T03:02:20+00:00
 
 What started out as a fun little thought exercise ballooned into something quite large indeed.
 
-Without further ado, here are my picks for the best songs for every year since the Cuban Missile Crisis:
+Found below is a compilation of my favorite songs released each year since the Cuban Missile Crisis (limiting to 6 songs per year and an artist may not appear more than once as the main artist for any given year):
 
 ## Playlist
 

@@ -3,7 +3,16 @@ layout: collection
 title: "Recipes"
 collection: recipes
 permalink: /recipes-archive/
+entries_layout: grid
 author_profile: false
 ---
 
-Sample document listing for the collection `_recipes`.
+(WIP)
+
+<!-- ---
+title: "Posts by Category (grid view)"
+layout: categories
+permalink: /categories-grid/
+entries_layout: grid
+author_profile: true
+--- -->

@@ -1,9 +1,12 @@
 ---
 title: "Lamb Curry"
-date: 2016-02-24T03:02:20+00:00
+header:
+  image: /assets/images/cooking/feast.jpeg
+  teaser: assets/images/cooking/feast.jpeg
+date: 2026-02-24T03:02:20+00:00
 ---
 
-Description!!
+(WIP)
 
 ## Ingredients
 

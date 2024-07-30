@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Aqib Mahfuz"
   avatar           : "../assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring Difference Maker"
+  bio              : "Oxford MSc CS Candidate"
   location         : "Oxford, UK"
   email            : "aqib.mahfuz@gmail.com"
   multiloc:
@@ -250,7 +250,7 @@ paginate_path: /page:num/
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
-  # enabled: true
+  enabled: true
   debug: false
   collection: 'posts'
   per_page: 10
@@ -322,10 +322,10 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  projects:
     output: true
     permalink: /:collection/:path/
-  sports:
+  recipes:
     output: true
     permalink: /:collection/:path/
   music:
@@ -352,18 +352,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
+  # _projects
   - scope:
-      path: ""
-      type: recipes
+      path: "_projects"
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
-  # _sports
+  # _recipes
   - scope:
-      path: ""
-      type: sports
+      path: "_recipes"
+      type: recipes
     values:
       layout: single
       author_profile: true

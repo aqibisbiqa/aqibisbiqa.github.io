@@ -2,17 +2,17 @@
 main:
   - title: "CV"
     url: /assets/files/CV%20PDF%20-%20Aqib%20Mahfuz.pdf
-  - title: "Sample Works"
-    url: /sample-works/
+  - title: "Projects"
+    url: /projects/
   # - title: "Tools"
   #   url: /tools-archive/
-  - title: "Recipes"
+  - title: "Cooking"
     url: /recipes-archive/
   # - title: "Sports"
   #   url: /sports-archive/
   # - title: "Music"
   #   url: /music-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  # - title: "Collections"
+    # url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
